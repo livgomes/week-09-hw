@@ -16,7 +16,7 @@ Week nine of MART-341 allowed us to play with the technique of adding boxes, bor
 
 ### Homework
 
-This weeks homework entailed creating a new webpage that displayed a parallax scrolling, hero imagery and background images. For my webpage I chose to create a webpage focusing on the theme of Missoula and Montana in general. I used multiple images of Montana as background and hero images to draw the viewers attention to the beauty of the landscape and used title words such as Missoula, Montana, wildlife and wilderness to give the viewers a initial understanding of what will be discussed throughout the webpage. For the parallax scrolling, I allowed the interchanging of photographs to appear along the screen as the viewer scrolls up and down the webpage.
+This weeks homework I created a webpage that was meant to encourage people to about dogs and help them determine which dag breed would be best for them. For th webpage I included a title of the webpage along with the loga for the organization I was promoting within the webpage. I also include diffeent box models which helped me develop a tab bar which directed users to different webpages, also well as a drop-down menu give an individual the option to choose which sub-page they preferred to enter onto. This lay out was designed in a way to provide the neatest and most clear information that was user friendly and ultimaetly assissted users in a way that made the use ofthe website, quick, easy and aesticially pleasing to use. 
 
 ### Issues
 
@@ -24,4 +24,4 @@ This week I struggled quite a bit with the dropdown menu, however after multiple
 
 ### Future Discussion
 
-This week was another exiting week adding to my knowledge in creating webpages. I am beginning to see all the elements coming together, which is getting me closer and closer to a stage that where I am beginning to get comfortable creating webpages every week. I am exciting to continue working and practising. 
+This week was another exiting week adding to my knowledge in creating webpages. I am beginning to see all the elements coming together, which is getting me closer and closer to a stage that where I am beginning to get comfortable creating webpages every week. I am exciting to continue working and practising.
