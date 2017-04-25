@@ -20,8 +20,8 @@ This weeks homework entailed creating a new webpage that displayed a parallax sc
 
 ### Issues
 
-The most common issue I had this week was trying to get the hero photos to remain in the order that I wanted it to be, as well as getting the text to appear on top of the image in the position and size that I wanted.
+This week I struggled quite a bit with the dropdown menu, however after multiple tries and lots of research and help from classmates I was able to figure it out and successfully add my drop-down menu :)
 
 ### Future Discussion
 
-Overall I really enjoyed this weeks assignment and it makes me really excited to get started on the final project and take the extra time to put in extra effort in building my own personalized webpage.
+This week was another exiting week adding to my knowledge in creating webpages. I am beginning to see all the elements coming together, which is getting me closer and closer to a stage that where I am beginning to get comfortable creating webpages every week. I am exciting to continue working and practising. 
